@@ -246,7 +246,7 @@ Durante o desenvolvimento deste projeto, foram explorados os seguintes conceitos
 🔗 **GitHub:** [Pedro Santos](https://github.com/pedrohsantosf)
 💼 **LinkedIn:** [Pedro Santos](https://linkedin.com/in/pedrohsantosf)
 
-🔗 **Link do Projeto:** [https://github.com/seu-usuario/fridge-spring-s](https://github.com/seu-usuario/fridge-spring-s)
+🔗 **Link do Projeto:** [https://github.com/seu-usuario/fridge-spring-s](https://github.com/pedrohsantosf/fridge-spring-s)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
